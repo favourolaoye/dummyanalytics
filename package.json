@@ -1,0 +1,28 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node emitter",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favourolaoye/store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favourolaoye/store/issues"
+  },
+  "homepage": "https://github.com/favourolaoye/store#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "events": "^3.3.0",
+    "uuid": "^8.3.2"
+  }
+}
